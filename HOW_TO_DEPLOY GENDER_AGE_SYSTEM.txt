@@ -1,0 +1,16 @@
+use this follwing step to deploy the Gender_and_age_detection system in your system
+
+step.1
+download all caffemodels
+(gender_deploy.prototxt
+opencv_face_detector.pbtxt
+opencv_face_detector_uint8.pb
+age_net.caffemodel
+age_deploy.prototxt)
+
+step.2
+copy the code and paste in jupyter notebook
+
+step.3
+run the code
+
